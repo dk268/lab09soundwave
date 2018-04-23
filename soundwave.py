@@ -1,6 +1,6 @@
 import audio
 import math
-import audio
+
 
 class Soundwave:
     def __init__(self, halftones=0, duration=0.0, amp=1, samplerate=44100):
